@@ -1,0 +1,77 @@
+body {
+  font-family: Manrope, sans-serif;
+  width: 100%;
+  background: #f5f5f5;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 125px;
+  width: 1400px;
+  background: #ffffff;
+}
+
+h1 {
+  width: 956px;
+  margin-bottom: 30px;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: -1.8px;
+  color: #121212;
+}
+
+.img-title {
+  margin-bottom: 150px;
+  width: 1150px;
+  height: 500px;
+  padding-left: 40px;
+  padding-top: 379px;
+  background-image: url(../img/img-title.svg);
+}
+
+.text {
+  width: 430px;
+  font-size: 20px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 400;
+  letter-spacing: -0.6px;
+  color: #ffffff;
+}
+
+.item-title {
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.54px;
+  color: #121212;
+}
+
+.text-title {
+  margin-bottom: 30px;
+  width: 1048px;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1.35px;
+  color: #121212;
+}
+
+.services-button {
+  display: inline-block;
+  padding: 20px 40px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  background-color: #ad1818;
+  cursor: pointer;
+}
